@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋 My name is Artyom Tyulyakov
+=================================
 
-<!--
-**Artyomtula/Artyomtula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer
+-------------
 
-Here are some ideas to get you started:
+I am engaged in development, development and creation of content. I study new technologies, work on interesting projects and constantly develop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Orel
+* ✉️  You can contact me at [artyomtartyo@yandex.ru](mailto:artyomtartyo@yandex.ru)
+* 🚀  I'm currently working on [TheBestApp](http://thebestapp.ru)
+* 🧠  I'm learning a new franework
+* 🤝  I'm open to collaborating on cool project
