@@ -12,15 +12,14 @@ Currently focused on **React**, **TypeScript**, and improving my skills in desig
 ### 🛠 Tech Stack
 - **Languages:** TypeScript, JavaScript, HTML, CSS (LESS, SCSS)
 - **Frameworks/Libraries:** React, Node.js, Express
-- **Tools:** Git, REST API, Webpack, Figma, Photoshop
-- **Other:** Linux, PowerShell, Terminal
+- **Tools:** Git, Vite, Webpack, Docker, Figma, Photoshop
 
 ### 📺 YouTube
 I run a [YouTube channel](https://youtube.com/@Artyomtula) where I share my journey as a developer, tips, and insights into life, tech, and creativity.
 
 ### 📬 Let's connect!
 - [Telegram](https://t.me/artyomtula)  
-- Email: artyomtyulyakov@gmail.com
+- My Email: artyomtyulyakov@gmail.com
 
 ---
 
